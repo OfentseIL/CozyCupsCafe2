@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:background="@drawable/playlistbg2"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/topLeftLogo"
+        android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_gravity="start"
+    android:src="@drawable/logo"
+        android:contentDescription="@string/logo2"/>
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cozy_offerings2"
+        android:background="@color/brown"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:padding="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center" />
+
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:padding="10dp"
+        android:verticalSpacing="10dp" />
+
+    <ImageView
+        android:id="@+id/fullImageView"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:contentDescription="@string/fullImage"/>
+
+    <TextView
+        android:id="@+id/detailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/details"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:background="@color/brown"
+        android:layout_marginTop="16dp"
+        android:visibility="gone"
+        android:padding="10dp" />
+</LinearLayout>

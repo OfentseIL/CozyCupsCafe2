@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cozy Cups Cafe</string>
+    <string name="logo">logo</string>
+    <string name="cozy_cups_cafe">Cozy Cups Cafe</string>
+    <string name="background_image2">background_image2</string>
+    <string name="cozy_cups_cafe2">Cozy Cups Cafe</string>
+    <string name="instructions">Welcome to Cozy Cups Cafe, click next to explore our coffee shop music playlist</string>
+    <string name="next">Next</string>
+    <string name="playlistbg">playlistbg</string>
+    <string name="the_cozy_playlist">The Cozy Playlist!!</string>
+    <string name="artist1">artist1</string>
+    <string name="play1">Play</string>
+    <string name="play_song1">play_song1</string>
+    <string name="artist2">artist2</string>
+    <string name="cup_in_the_afternoon_by_mackey">Cup in the Afternoon By Mackey</string>
+    <string name="play2">Play</string>
+    <string name="play_song2">play_song2</string>
+    <string name="artist3">artist3</string>
+    <string name="oh_coffee_by_h_beats">OH! Coffee By H-Beats</string>
+    <string name="play3">Play</string>
+    <string name="play_song3">play_song3</string>
+    <string name="click_menu_to_explore_our_coffee_offerings">Click \'Menu\' to explore our coffee offerings</string>
+    <string name="menu">Menu</string>
+    <string name="morning_bean_by_onion_all_stars">Morning Bean By ONION_ALL_STARS</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="cozy_offerings">Cozy Offerings.</string>
+    <string name="grid">grid</string>
+    <string name="gridItem">gridItem</string>
+    <string name="it_s_always_time_for_coffee">It\'s Always Time for Coffee</string>
+    <string name="logo2">logo2</string>
+    <string name="details">Details</string>
+    <string name="fullImage">fullImage</string>
+    <string name="cozy_offerings2">Cozy Offerings!!</string>
+    <string name="details_for_image">"Details for image "</string>
+</resources>
